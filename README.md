@@ -55,7 +55,7 @@ Remove student records from the database using their **unique ID**.
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/student-management-app.git
+git clone https://github.com/upeka200163/Student-Management-System.git
 ```
 
 ### 2️⃣ Navigate to Project Directory
