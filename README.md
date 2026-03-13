@@ -49,6 +49,9 @@ Remove student records from the database using their **unique ID**.
 ### Delete Student
 ![delete](https://github.com/user-attachments/assets/fb1915b5-54ab-4854-905f-778de160d12a)
 
+### Database
+<img width="1106" height="606" alt="image" src="https://github.com/user-attachments/assets/d79fde07-1011-42e9-b607-ff94181e9446" />
+
 ---
 
 ## ⚙️ Setup & Installation
